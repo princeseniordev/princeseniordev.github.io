@@ -4,10 +4,10 @@ avatar: 'me.jpg'
 skills:
   - Coding
   - soccer
-  - Problem Solving
-  - Reading
-  - Team Management
-  - Saunter
+  - Swimming
+  - Literature
+  - Music
+  - Environmental conservation
 ---
 
 Hello, My name is Andy Johnson, and I hail from the picturesque island of Cheung Chau, renowned for its charming atmosphere. 

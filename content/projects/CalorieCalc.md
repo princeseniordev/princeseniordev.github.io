@@ -1,8 +1,7 @@
 ---
 date: '2020-02-14'
 title: 'Calorie Calculator in Django'
-github: 'https://github.com/yashitanamdeo/Calorie-Calulator-Django'
-external: ''
+github: 'https://github.com/princeseniordev/Calorie-Calulator-Django'
 tech:
   - Python
   - Django
